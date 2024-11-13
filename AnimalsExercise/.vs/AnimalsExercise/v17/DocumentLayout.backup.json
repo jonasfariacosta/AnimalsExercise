@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\animalsexercise\\animalsexercise\\animalsexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|solutionrelative:animalsexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\animalsexercise\\animalsexercise\\animalsexercise\\baseclass\\baseclass2\\baseclass3\\birds\\goose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|solutionrelative:animalsexercise\\baseclass\\baseclass2\\baseclass3\\birds\\goose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\animalsexercise\\animalsexercise\\animalsexercise\\baseclass\\baseclass2\\baseclass3\\bats\\bat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|solutionrelative:animalsexercise\\baseclass\\baseclass2\\baseclass3\\bats\\bat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\animalsexercise\\animalsexercise\\animalsexercise\\baseclass\\baseclass2\\baseclass3\\birds\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|solutionrelative:animalsexercise\\baseclass\\baseclass2\\baseclass3\\birds\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\animalsexercise\\animalsexercise\\animalsexercise\\interfaces\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|solutionrelative:animalsexercise\\interfaces\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\animalsexercise\\animalsexercise\\animalsexercise\\interfaces\\ihunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|solutionrelative:animalsexercise\\interfaces\\ihunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\animalsexercise\\animalsexercise\\animalsexercise\\baseclass\\baseclass2\\baseclass3\\bigcats\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|solutionrelative:animalsexercise\\baseclass\\baseclass2\\baseclass3\\bigcats\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\animalsexercise\\animalsexercise\\animalsexercise\\baseclass\\baseclass2\\baseclass3\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|solutionrelative:animalsexercise\\baseclass\\baseclass2\\baseclass3\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\animalsexercise\\animalsexercise\\animalsexercise\\interfaces\\iswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|solutionrelative:animalsexercise\\interfaces\\iswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\animalsexercise\\animalsexercise\\animalsexercise\\interfaces\\imove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|solutionrelative:animalsexercise\\interfaces\\imove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\animalsexercise\\animalsexercise\\animalsexercise\\animalsexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{55C49A9D-7D9D-432D-AE80-593BD95397AC}|AnimalsExercise\\AnimalsExercise.csproj|solutionrelative:animalsexercise\\animalsexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Goose.cs",
+              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\Birds\\Goose.cs",
+              "RelativeDocumentMoniker": "AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\Birds\\Goose.cs",
+              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\Birds\\Goose.cs",
+              "RelativeToolTip": "AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\Birds\\Goose.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:55:36.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bat.cs",
+              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\Bats\\Bat.cs",
+              "RelativeDocumentMoniker": "AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\Bats\\Bat.cs",
+              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\Bats\\Bat.cs",
+              "RelativeToolTip": "AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\Bats\\Bat.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:49:15.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IHunt.cs",
+              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\Interfaces\\IHunt.cs",
+              "RelativeDocumentMoniker": "AnimalsExercise\\Interfaces\\IHunt.cs",
+              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\Interfaces\\IHunt.cs",
+              "RelativeToolTip": "AnimalsExercise\\Interfaces\\IHunt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:34:24.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISwim.cs",
+              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\Interfaces\\ISwim.cs",
+              "RelativeDocumentMoniker": "AnimalsExercise\\Interfaces\\ISwim.cs",
+              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\Interfaces\\ISwim.cs",
+              "RelativeToolTip": "AnimalsExercise\\Interfaces\\ISwim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:34:14.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFly.cs",
+              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\Interfaces\\IFly.cs",
+              "RelativeDocumentMoniker": "AnimalsExercise\\Interfaces\\IFly.cs",
+              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\Interfaces\\IFly.cs",
+              "RelativeToolTip": "AnimalsExercise\\Interfaces\\IFly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:34:04.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tiger.cs",
+              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\BigCats\\Tiger.cs",
+              "RelativeDocumentMoniker": "AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\BigCats\\Tiger.cs",
+              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\BigCats\\Tiger.cs",
+              "RelativeToolTip": "AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\BigCats\\Tiger.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:32:52.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Penguin.cs",
+              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\Birds\\Penguin.cs",
+              "RelativeDocumentMoniker": "AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\Birds\\Penguin.cs",
+              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\Birds\\Penguin.cs",
+              "RelativeToolTip": "AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\Birds\\Penguin.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:32:46.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMove.cs",
+              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\Interfaces\\IMove.cs",
+              "RelativeDocumentMoniker": "AnimalsExercise\\Interfaces\\IMove.cs",
+              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\Interfaces\\IMove.cs",
+              "RelativeToolTip": "AnimalsExercise\\Interfaces\\IMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:31:58.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\Bird.cs",
+              "RelativeDocumentMoniker": "AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\Bird.cs",
+              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\Bird.cs",
+              "RelativeToolTip": "AnimalsExercise\\BaseClass\\BaseClass2\\BaseClass3\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:31:06.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnimalsExercise",
+              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise.csproj",
+              "RelativeDocumentMoniker": "AnimalsExercise\\AnimalsExercise.csproj",
+              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise.csproj",
+              "RelativeToolTip": "AnimalsExercise\\AnimalsExercise.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T11:28:22.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\Program.cs",
+              "RelativeDocumentMoniker": "AnimalsExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\AnimalsExercise\\AnimalsExercise\\AnimalsExercise\\Program.cs",
+              "RelativeToolTip": "AnimalsExercise\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:20:22.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

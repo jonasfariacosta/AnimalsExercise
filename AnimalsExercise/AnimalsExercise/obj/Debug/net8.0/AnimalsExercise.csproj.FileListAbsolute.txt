@@ -1,0 +1,15 @@
+C:\Users\Jonas\Documents\northcoders\weekB\AnimalsExercise\AnimalsExercise\AnimalsExercise\bin\Debug\net8.0\AnimalsExercise.exe
+C:\Users\Jonas\Documents\northcoders\weekB\AnimalsExercise\AnimalsExercise\AnimalsExercise\bin\Debug\net8.0\AnimalsExercise.deps.json
+C:\Users\Jonas\Documents\northcoders\weekB\AnimalsExercise\AnimalsExercise\AnimalsExercise\bin\Debug\net8.0\AnimalsExercise.runtimeconfig.json
+C:\Users\Jonas\Documents\northcoders\weekB\AnimalsExercise\AnimalsExercise\AnimalsExercise\bin\Debug\net8.0\AnimalsExercise.dll
+C:\Users\Jonas\Documents\northcoders\weekB\AnimalsExercise\AnimalsExercise\AnimalsExercise\bin\Debug\net8.0\AnimalsExercise.pdb
+C:\Users\Jonas\Documents\northcoders\weekB\AnimalsExercise\AnimalsExercise\AnimalsExercise\obj\Debug\net8.0\AnimalsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\Documents\northcoders\weekB\AnimalsExercise\AnimalsExercise\AnimalsExercise\obj\Debug\net8.0\AnimalsExercise.AssemblyInfoInputs.cache
+C:\Users\Jonas\Documents\northcoders\weekB\AnimalsExercise\AnimalsExercise\AnimalsExercise\obj\Debug\net8.0\AnimalsExercise.AssemblyInfo.cs
+C:\Users\Jonas\Documents\northcoders\weekB\AnimalsExercise\AnimalsExercise\AnimalsExercise\obj\Debug\net8.0\AnimalsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\northcoders\weekB\AnimalsExercise\AnimalsExercise\AnimalsExercise\obj\Debug\net8.0\AnimalsExercise.sourcelink.json
+C:\Users\Jonas\Documents\northcoders\weekB\AnimalsExercise\AnimalsExercise\AnimalsExercise\obj\Debug\net8.0\AnimalsExercise.dll
+C:\Users\Jonas\Documents\northcoders\weekB\AnimalsExercise\AnimalsExercise\AnimalsExercise\obj\Debug\net8.0\refint\AnimalsExercise.dll
+C:\Users\Jonas\Documents\northcoders\weekB\AnimalsExercise\AnimalsExercise\AnimalsExercise\obj\Debug\net8.0\AnimalsExercise.pdb
+C:\Users\Jonas\Documents\northcoders\weekB\AnimalsExercise\AnimalsExercise\AnimalsExercise\obj\Debug\net8.0\AnimalsExercise.genruntimeconfig.cache
+C:\Users\Jonas\Documents\northcoders\weekB\AnimalsExercise\AnimalsExercise\AnimalsExercise\obj\Debug\net8.0\ref\AnimalsExercise.dll
